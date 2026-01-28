@@ -1,3 +1,4 @@
+//Hw1_Q2_Elvis_Chen
 #include <iostream>
 #include <string>
 #include <iomanip>
@@ -37,5 +38,6 @@ int main(){
     cout << "Your weekly income is: " <<fixed<< setprecision(2)<< net_pay << endl;
 
     return(0);
+
 
 }
