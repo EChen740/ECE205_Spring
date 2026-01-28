@@ -1,3 +1,4 @@
+//HW1_Q1_Elvis_Chen
 #include <iostream> //allow the use of input output tools
 #include <string> //need to access string class
 #include <iomanip> //need to access the manip class to set percision
@@ -39,3 +40,4 @@ int main(){ //program starts
 
     return(0);   
 }
+
