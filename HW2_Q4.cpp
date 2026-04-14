@@ -1,5 +1,5 @@
 //ECE 205, Homework2 Q4
-//Elvis Chen
+
 #include <iostream> //allow the use of input output tools
 #include <string> //need to access string class
 #include <iomanip> //need to access the manip class to set percision
