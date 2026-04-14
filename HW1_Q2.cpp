@@ -1,4 +1,4 @@
-//Hw1_Q2_Elvis_Chen
+//Hw1_Q2_
 #include <iostream>
 #include <string>
 #include <iomanip>
