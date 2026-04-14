@@ -1,4 +1,4 @@
-//HW1_Q1_Elvis_Chen
+//HW1_Q1
 #include <iostream> //allow the use of input output tools
 #include <string> //need to access string class
 #include <iomanip> //need to access the manip class to set percision
